@@ -58,10 +58,7 @@ body {
 	float: left;
 }
 
-.weather-side:hover {
-	-webkit-transform: scale(1.1) perspective(1500px) rotateY(10deg);
-	        transform: scale(1.1) perspective(1500px) rotateY(10deg);
-}
+
 
 .weather-gradient {
 	position: absolute;
